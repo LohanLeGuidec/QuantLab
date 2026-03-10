@@ -36,7 +36,9 @@ QuantLab est une application d’analyse quantitative développée en **Python**
 ---
 
 ## 🏗️ Architecture du projet
-    QuantLab/ │ ├── app.py ├── OptionLab_py/ │   ├── _01_dataloader/ │   ├── _02_Pricing/ │   ├── _03_Risk/ │   ├── _04_utils/ │   └── _05_strategies/ │ ├── OptionLab_pages/ │   ├── _Home.py │   ├── _0_BlackScholes.py │   ├── _1_MonteCarlo.py │   ├── _2_Strategies.py │   ├── _3_Optimisation.py │   ├── _4_RiskAnalysis.py │   └── _5_Backtest.py │ ├── README.md ├── LICENSE └── .gitignore
+
+
+    QuantLab/ ├── app.py ├── OptionLab_py/ │   ├── _01_dataloader/ │   ├── _02_Pricing/ │   ├── _03_Risk/ │   ├── _04_utils/ │   └── _05_strategies/ │ ├── OptionLab_pages/ │   ├── _Home.py │   ├── _0_BlackScholes.py │   ├── _1_MonteCarlo.py │   ├── _2_Strategies.py │   ├── _3_Optimisation.py │   ├── _4_RiskAnalysis.py │   └── _5_Backtest.py │ ├── README.md ├── LICENSE └── .gitignore
 
 ---
 
