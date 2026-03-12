@@ -53,5 +53,12 @@ QuantLab/
 ├── LICENSE
 └── .gitignore
 ```
+## 🛠️ Technologies utilisées
+
+- **Langage :** Python  
+- **Interface :** Streamlit  
+- **Analyse & calcul :** NumPy, Pandas, SciPy  
+- **Visualisation :** Matplotlib, Plotly  
+- **Données de marché :** yfinance (ou autre si tu en utilises une autre)
 ---
 
