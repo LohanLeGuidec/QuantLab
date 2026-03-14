@@ -34,31 +34,27 @@ QuantLab est une application d’analyse quantitative développée en **Python**
 - Base pour intégrer des données de marché et des règles de trading
 
 ### 🧠 Architecture du projet
-```text
-QuantLab/
-├── app.py
-├── OptionLab_py/ │   ├── _01_dataloader/ │
-                      ├── _02_Pricing/ │
-                      ├── _03_Risk/ │
-                      ├── _04_utils/ │
-                      └── _05_strategies/ │
-├── OptionLab_pages/ │    ├── _Home.py │
-                          ├── _0_BlackScholes.py │
-                          ├── _1_MonteCarlo.py │
-                          ├── _2_Strategies.py │
-                          ├── _3_Optimisation.py │
-                          ├── _4_RiskAnalysis.py │
-                          └── _5_Backtest.py │
-├── README.md
-├── LICENSE
-└── .gitignore
-```
-## 🛠️ Technologies utilisées
+    QuantLab/
+    ├── app.py
+    ├── OptionLab_py/ │   ├── _01_dataloader/ │
+                        ├── _02_Pricing/ │
+                        ├── _03_Risk/ │
+                        ├── _04_utils/ │
+                        └── _05_strategies/ │
+    ├── OptionLab_pages/ │    ├── _Home.py │
+                            ├── _0_BlackScholes.py │
+                            ├── _1_MonteCarlo.py │
+                            ├── _2_Strategies.py │
+                            ├── _3_Optimisation.py │
+                            ├── _4_RiskAnalysis.py │
+                            └── _5_Backtest.py │
+    ├── README.md
+    ├── LICENSE
+    └── .gitignore
 
-- **Langage :** Python  
-- **Interface :** Streamlit  
-- **Analyse & calcul :** NumPy, Pandas, SciPy  
-- **Visualisation :** Matplotlib, Plotly  
-- **Données de marché :** yfinance 
----
-
+### 🛠️ Technologies utilisées
+- Langage : Python
+- Interface : Streamlit
+- Analyse & calcul : NumPy, Pandas, SciPy
+- Visualisation : Matplotlib, Plotly
+- Données de marché : yfinance
